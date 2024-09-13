@@ -29,7 +29,7 @@ This project is a Quiz Application built with React and TypeScript, designed as 
 
 The project has been deployed on Netlify. You can see the live version of the quiz app by clicking the link below:
 
-Deployed Quiz Application
+[Deployed Quiz Application](https://quiz-brightchamps.netlify.app/)
 
 ## Getting Started (Run Locally)
 
@@ -40,13 +40,13 @@ Follow these steps to set up the project locally on your machine.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/arshali2774/Quiz_App_BrightChamps.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd quiz-app
+cd Quiz_App_BrightChamps
 ```
 
 3. Install dependencies:
