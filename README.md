@@ -16,12 +16,13 @@ This project is a Quiz Application built with React and TypeScript, designed as 
 - **Correct Answer:** 1 point is awarded for each correct answer.
 - **Incorrect Answer:** 1 point is deducted for each wrong answer (with a minimum score of 0 points).
 - **No Negative Scores:** If a user answers a question incorrectly, the score is not deducted.
-  > [!NOTE]
-  > If a user answers a **fresh** question correctly, the score is increased by 1 point.
-  > If a user answers a **fresh** question incorrectly, the score is not deducted.
-  > If a user changes their answer from correctly answered to incorrectly answered, the score is deducted.
-  > If a user changes their answer from incorrectly answered to correctly answered, the score increases by 1 point.
-  > If a user changes their answer from incorrectly answered to incorrectly answered, the score is not deducted.
+
+> [!NOTE]
+> If a user answers a **fresh** question correctly, the score is increased by 1 point.
+> If a user answers a **fresh** question incorrectly, the score is not deducted.
+> If a user changes their answer from correctly answered to incorrectly answered, the score is deducted.
+> If a user changes their answer from incorrectly answered to correctly answered, the score increases by 1 point.
+> If a user changes their answer from incorrectly answered to incorrectly answered, the score is not deducted.
 
 ## Project Demo
 
